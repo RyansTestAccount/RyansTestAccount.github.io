@@ -1,8 +1,6 @@
 var today = new Date();
 var day = String(today.getDate()).padStart(2, '0');
 
-console.log(day)
-
 var pairs = {
     1:  ["The Common Kitchen & Bar", "https://goo.gl/maps/tQVeoX3zF5fSn6vy9"],
     2:  ["Massi", "https://goo.gl/maps/TD3WbLpSWLhdGA9u8"],
@@ -36,7 +34,6 @@ var pairs = {
     30: ["Taketori Fusion Japanese", "https://goo.gl/maps/EcgoQp8XSBQgmMMh8"],
     31: ["Göz City", "https://goo.gl/maps/KUkBYBcffqgXx8fb6"],
 }
-
 
 var captainsCall = document.getElementById("captains-call");
 captainsCall.textContent = pairs[day][0];
