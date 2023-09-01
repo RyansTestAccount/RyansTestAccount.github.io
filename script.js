@@ -1,5 +1,5 @@
 var today = new Date();
-var day = String(today.getDate()).padStart(2, '0');
+var day = String(today.getDate());
 
 console.log(day);
 
