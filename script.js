@@ -37,6 +37,7 @@ var pairs = {
     31: ["Göz City", "https://goo.gl/maps/KUkBYBcffqgXx8fb6"],
 }
 
+
 var captainsCall = document.getElementById("captains-call");
 captainsCall.textContent = pairs[day][0];
 
