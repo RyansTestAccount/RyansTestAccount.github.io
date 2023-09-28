@@ -31,7 +31,7 @@ var pairs = {
     25: ["Dumpling Kingdom", "https://goo.gl/maps/Crit9GUcdKXDqDt9A"],
     26: ["Five Points Café", "https://goo.gl/maps/WjjH3YRQASV2jEHF7"],
     27: ["Delhi Rocks", "https://goo.gl/maps/DksnbgMRHN8igytk9"],
-    28: ["GJ's Grill", "https://goo.gl/maps/rbYfhRKZPZfCntxT6"],
+    28: ["GJ's Grill (NO EFTPOS)", "https://goo.gl/maps/rbYfhRKZPZfCntxT6"],
     29: ["Pokéd", "https://goo.gl/maps/PH7qYwLdMfchBtKDA"],
     30: ["Taketori Fusion Japanese", "https://goo.gl/maps/EcgoQp8XSBQgmMMh8"],
     31: ["Göz City", "https://goo.gl/maps/KUkBYBcffqgXx8fb6"],
